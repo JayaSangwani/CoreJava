@@ -10,9 +10,14 @@ public class LAB014 {
         System.out.println("Enter value of b");
         int b = sc.nextInt();
 
-        int temp = a;
-        a=b;
-        b=temp;
+        //int temp = a;
+        //a=b;
+        //b=temp;
+        //System.out.println("a= "+a+"   "+"b= "+b);
+
+        a= a+b;
+        b=a-b;
+        a=a-b;
         System.out.println("a= "+a+"   "+"b= "+b);
     }
 }
