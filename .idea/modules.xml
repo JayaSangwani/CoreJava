@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/HW.iml" filepath="$PROJECT_DIR$/HW.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/NewSystem.iml" filepath="$PROJECT_DIR$/NewSystem.iml" />
+>>>>>>> 32ead57 (FirstinNewSystem)
     </modules>
   </component>
 </project>
