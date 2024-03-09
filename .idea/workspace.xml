@@ -1,100 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c06b2ac-7120-441e-99a6-4e4300b997ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/READ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/Calling.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/GradeCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/LAB018.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/Mathfunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/OnlyOdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/TriangleClassifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/VowelsSwitch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/encapsulation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/AllPrograms/login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/HW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB002.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB003.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB004.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB005.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB006.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB007.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB008.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB009.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB010.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB011.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB012.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB013.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB014.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB015.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB016.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/LAB017.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/CountVowels.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/FahrenheittoCelcius.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/FizzBuzz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/GradeCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/Multiplicationtable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/Palindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/PrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HW/src/TenPracticePrograms/sumofdigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/LAB018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/Mathfunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/OnlyOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/VowelsSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AllPrograms/encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewCodes/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/CountVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/FahrenheittoCelcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/Multiplicationtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenPracticePrograms/sumofdigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jaya.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="1c06b2ac-7120-441e-99a6-4e4300b997ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,13 +30,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NewSystem.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Jaika/IdeaProjects/Jaya/src/Main.java"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -126,16 +55,5 @@
       <updated>1710021512854</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
