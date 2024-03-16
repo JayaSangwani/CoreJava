@@ -32,8 +32,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Annonymous.executor": "Run",
+    "Application.Casting.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.NewSystem.executor": "Run",
+    "Application.Poly.executor": "Run",
     "Application.RC_Static.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
