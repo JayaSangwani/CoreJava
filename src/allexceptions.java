@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class allexceptions {
 
     public static void main(String[] args) {
@@ -8,8 +10,15 @@ public class allexceptions {
             System.out.println(a);
             System.out.println(b);
 
-        } catch (NumberFormatException | ArithmeticException | ArrayIndexOutOfBoundsException e) {
+        //} catch (NumberFormatException | ArithmeticException | ArrayIndexOutOfBoundsException e) {
+          //  System.out.println(e.getMessage());
+
+        }catch(Exception e){
             System.out.println(e.getMessage());
+        }
+
+        finally { //it will be executed no matter what
+            System.out.println("I will be executed somehow");
         }
     }
 }
