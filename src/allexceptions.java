@@ -15,10 +15,13 @@ public class allexceptions {
 
         }catch(Exception e){
             System.out.println(e.getMessage());
+
+            System.exit(0);// told jvm to stop finally block
         }
 
         finally { //it will be executed no matter what
             System.out.println("I will be executed somehow");
+        //but if you tell JVM to stop finally then it wont run see line no. 19
         }
     }
 }
