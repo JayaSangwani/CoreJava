@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c06b2ac-7120-441e-99a6-4e4300b997ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/allexceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/allexceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,6 +37,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Annonymous.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayList.executor": "Run",
+    "Application.ArrayListexplained.executor": "Run",
     "Application.Casting.executor": "Run",
     "Application.Interface.executor": "Run",
     "Application.NewSystem.executor": "Run",
@@ -43,15 +50,17 @@
     "Application.checkedexception.executor": "Run",
     "Application.exception.executor": "Run",
     "Application.exceptionxexplanation.executor": "Run",
+    "Application.throwsexplained.executor": "Run",
     "Application.wrapper.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Jaika/IdeaProjects/Jaya/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.allexceptions">
+  <component name="RunManager">
     <configuration name="allexceptions" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="allexceptions" />
       <module name="Jaya" />
@@ -68,10 +77,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="throwsexplained" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="throwsexplained" />
+      <module name="Jaya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.exceptionxexplanation" />
       <item itemvalue="Application.allexceptions" />
+      <item itemvalue="Application.throwsexplained" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.throwsexplained" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
