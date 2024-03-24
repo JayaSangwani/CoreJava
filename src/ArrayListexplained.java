@@ -27,7 +27,7 @@ public class ArrayListexplained {
             System.out.println(a);
         }
 
-        System.out.println("----------");
+        System.out.println("---------- ");
         Iterator iterator = mylist.iterator();
         while(iterator.hasNext()){
             System.out.println(iterator.next());
