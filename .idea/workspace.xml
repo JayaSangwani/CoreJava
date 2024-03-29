@@ -46,6 +46,7 @@
     "Application.List1.executor": "Run",
     "Application.NewSystem.executor": "Run",
     "Application.Poly.executor": "Run",
+    "Application.PriorityQueue1.executor": "Run",
     "Application.RC_Comparator.executor": "Run",
     "Application.RC_Static.executor": "Run",
     "Application.Stack1.executor": "Run",
