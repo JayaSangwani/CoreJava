@@ -1,7 +1,6 @@
-package Queue01;
+package collectionframeworks.Queue01;
 
 
-import java.util.Collections;
 import java.util.Iterator;
 import java.util.PriorityQueue;
 import java.util.Queue;
